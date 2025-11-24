@@ -1,4 +1,4 @@
-# 🏦 FDM Mini Project 2025: Hybrid AI-Powered Fraud Detection System
+# 🏦 SecureBank AI : Hybrid AI-Powered Fraud Detection System
 
 ## 📋 Project Overview
 **SecureBank AI** is an advanced **hybrid machine learning-powered fraud detection system** that combines multiple ML models for optimal fraud detection accuracy. The system provides real-time transaction monitoring, geographic-intelligent risk assessment, and automated fraud prevention for financial institutions.
@@ -276,21 +276,6 @@ Access at: `http://localhost:8501`
 - **Platform**: Streamlit Sharing
 - **URL**: https://y3s1-credit-card-fraud-detection-4e9nd3bjgpdx5ggezynnbm.streamlit.app/Make_Transaction
 - **Auto-updates**: Continuous deployment from main branch
-
-## 👥 Team Contribution
-
-### Team Members
-- **ITXXXXXXX - [Name]** - Hybrid ML System & Model Integration
-- **ITXXXXXXX - [Name]** - Frontend Development & UI/UX  
-- **ITXXXXXXX - [Name]** - Sri Lanka Model & Geographic Intelligence
-- **ITXXXXXXX - [Name]** - System Architecture & Testing
-
-### Individual Responsibilities
-- **Hybrid ML Architecture**: Model routing, geographic intelligence, system integration
-- **Sri Lanka Model**: Local pattern training, cultural context, regional optimization
-- **Backend Development**: Hybrid system API, data processing, business logic
-- **Frontend Development**: Multi-model visualization, user experience
-- **Quality Assurance**: Cross-geographic testing, performance validation
 
 ## 🔒 Security Features
 
