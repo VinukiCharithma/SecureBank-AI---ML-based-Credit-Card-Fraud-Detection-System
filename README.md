@@ -89,6 +89,12 @@ FDM_Fraud_Detection/
     ├── enhanced_fraud_model.joblib
     └── sri_lanka_wide_model.joblib
 ```
+## Screenshots
+![FDM Home](https://github.com/user-attachments/assets/1b4635b2-c1eb-4280-a882-05210b762ce5)
+![FDM Dashboard](https://github.com/user-attachments/assets/b2c1a7e4-8114-4f24-98cc-47a642912286)
+![WhatsApp Image 2025-11-24 at 17 05 56_2e9352fe](https://github.com/user-attachments/assets/7ac141b0-2866-4510-8226-5b4b9b1fee4c)
+![WhatsApp Image 2025-11-24 at 17 05 52_576865cd](https://github.com/user-attachments/assets/c16bfb02-28af-4795-ad31-8a83bafdd7a8)
+![WhatsApp Image 2025-11-24 at 17 05 52_31498688](https://github.com/user-attachments/assets/394f4511-7c91-4e37-978b-8ca2dad4a18f)
 
 ## 🚀 Installation & Setup
 
@@ -311,14 +317,6 @@ Access at: `http://localhost:8501`
 - **Advanced API Integration**: Banking system connectivity
 - **Multi-language Support**: Internationalization capabilities
 - **Ensemble Methods**: Combined predictions from multiple models
-
-## 📞 Support & Contact
-
-For technical support or questions about this hybrid ML system:
-
-- **Email**: [team-email@domain.com]
-- **Repository**: https://github.com/AMODHYAJ/Y3S1-Credit-Card-Fraud-Detection.git
-- **Documentation**: [Full Documentation Link]
 
 ## 📄 License
 
